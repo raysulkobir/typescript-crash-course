@@ -1,4 +1,5 @@
-import basicTypes from "./basicTypes";
+import { numbers, colors } from "./array";
 
- 
-console.log(basicTypes.other);
+
+console.log(numbers);
+console.log(colors);

@@ -1,8 +1,6 @@
 "use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
-const basicTypes_1 = __importDefault(require("./basicTypes"));
-console.log(basicTypes_1.default.other);
+const array_1 = require("./array");
+console.log(array_1.numbers);
+console.log(array_1.colors);
 //# sourceMappingURL=app.js.map
