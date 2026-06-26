@@ -1,5 +1,19 @@
-let name: string = "Md Raysul";
-let age: number = 28;
+interface BasicTypes {
+  stringType: string;
+  numberType: number;
+  booleanType: boolean;
+  arrayType: number[];
+  tupleType: [number, string, boolean];
+  other: any;
+}
 
-let sentence = `Hello , my name is ${name} and I'm ${age} years old.`;
-console.log(sentence);
+const basicTypes: BasicTypes = {
+  stringType: "This is a string ddd",
+  numberType: 42,
+  booleanType: true,
+  arrayType: [1, 2, 3],
+  tupleType: [1, "two", true],
+  other:10,
+};
+
+export default basicTypes;

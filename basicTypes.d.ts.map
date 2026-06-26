@@ -1,1 +1,1 @@
-{"version":3,"file":"basicTypes.d.ts","sourceRoot":"","sources":["basicTypes.ts"],"names":[],"mappings":""}
+{"version":3,"file":"basicTypes.d.ts","sourceRoot":"","sources":["basicTypes.ts"],"names":[],"mappings":"AAAA,UAAU,UAAU;IAClB,UAAU,EAAE,MAAM,CAAC;IACnB,UAAU,EAAE,MAAM,CAAC;IACnB,WAAW,EAAE,OAAO,CAAC;IACrB,SAAS,EAAE,MAAM,EAAE,CAAC;IACpB,SAAS,EAAE,CAAC,MAAM,EAAE,MAAM,EAAE,OAAO,CAAC,CAAC;IACrC,KAAK,EAAE,GAAG,CAAC;CACZ;AAED,QAAA,MAAM,UAAU,EAAE,UAOjB,CAAC;AAEF,eAAe,UAAU,CAAC"}

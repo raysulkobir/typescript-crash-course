@@ -4,5 +4,9 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const basicTypes_1 = __importDefault(require("./basicTypes"));
-console.log(basicTypes_1.default.other);
+console.log(basicTypes_1.default.stringType);
+console.log(basicTypes_1.default.numberType);
+console.log(basicTypes_1.default.booleanType);
+console.log(basicTypes_1.default.arrayType);
+console.log(basicTypes_1.default.tupleType);
 //# sourceMappingURL=app.js.map

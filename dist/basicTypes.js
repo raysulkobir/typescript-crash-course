@@ -6,7 +6,7 @@ const basicTypes = {
     booleanType: true,
     arrayType: [1, 2, 3],
     tupleType: [1, "two", true],
-    other: 10,
+    other: "hi",
 };
 exports.default = basicTypes;
 //# sourceMappingURL=basicTypes.js.map
