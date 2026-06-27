@@ -4,4 +4,4 @@ function add(a, b) {
     return a + b;
 }
 console.log(add(10, 2));
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=function.js.map
