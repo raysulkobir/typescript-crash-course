@@ -19,4 +19,4 @@ class User {
         return this.id;
     }
 }
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=accessModifier.js.map
