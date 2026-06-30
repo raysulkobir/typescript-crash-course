@@ -13,4 +13,4 @@ class User {
 }
 const user = new User("Raysul", 28);
 user.greet();
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=class.js.map
